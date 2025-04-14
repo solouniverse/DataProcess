@@ -45,9 +45,3 @@ build/
 
 ### Scala ###
 .bsp/
-
-### logs ###
-/logs/*.log
-
-### spark ###
-/spark-logs/*
